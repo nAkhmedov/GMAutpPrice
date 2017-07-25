@@ -121,7 +121,7 @@ public class MainActivity extends BaseActivity
         //AdView
 
         AdRequest adRequest = new AdRequest.Builder()
-                .addTestDevice("9955D816375FF5AF7DDE1FAA0B2B0413")
+//                .addTestDevice("9955D816375FF5AF7DDE1FAA0B2B0413")
                 .build();
         mAdView.loadAd(adRequest);
 

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">UZ Auto Narh</string>
+    <string name="app_name">Avto Narx</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -14,8 +14,8 @@
     <string name="russian">Русский</string>
     <string name="social">Boshqalar</string>
     <string name="rate">Baholash</string>
-    <string name="invitation_title">GM Uzbekistan Narhlari</string>
-    <string name="invitation_message">GM Uzbekistan Narhlari mobil ilovasiga qo\'shiling</string>
+    <string name="invitation_title">GM Uzbekistan Narxlari</string>
+    <string name="invitation_message">GM Uzbekistan Narxlari mobil ilovasiga qo\'shiling</string>
     <string name="invitation_cta">Call to action</string>
     <string name="invite">Taklif qiling</string>
     <string name="sharing_txt">Hooy! Ushbu ilovani o\'rnating va sinab ko\'ring https://play.google.com/store/apps/details?id=com.nakhmedov.gmuzbprice</string>

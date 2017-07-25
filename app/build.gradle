@@ -36,8 +36,8 @@ android {
     }
     buildTypes {
         release {
-            minifyEnabled true
-            shrinkResources true
+            minifyEnabled false
+            shrinkResources false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
             signingConfig signingConfigs.release
         }
@@ -57,7 +57,7 @@ dependencies {
     //Firebase
     compile 'com.google.firebase:firebase-ads:10.2.6'
     compile 'com.google.firebase:firebase-config:10.2.6'
-//    compile 'com.google.firebase:firebase-crash:10.2.6'
+    compile 'com.google.firebase:firebase-crash:10.2.6'
     compile 'com.google.firebase:firebase-invites:10.2.6'
     compile 'com.google.firebase:firebase-messaging:10.2.6'
     compile 'com.google.firebase:firebase-appindexing:10.2.6'

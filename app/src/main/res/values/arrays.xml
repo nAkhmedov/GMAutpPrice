@@ -6,7 +6,7 @@
         <item>@string/russian</item>
     </string-array>
 
-    <string-array name="language_types">
+    <string-array name="language_types" translatable="false">
         <item>"uz"</item>
         <item>"en"</item>
         <item>"ru"</item>

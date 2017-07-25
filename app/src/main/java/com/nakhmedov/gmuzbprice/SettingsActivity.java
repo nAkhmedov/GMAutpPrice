@@ -5,6 +5,8 @@ import android.support.annotation.Nullable;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
 import com.nakhmedov.gmuzbprice.fragment.SettingsFragment;
 
 import butterknife.BindView;
@@ -20,6 +22,7 @@ import butterknife.BindView;
 public class SettingsActivity extends BaseActivity {
 
     @BindView(R.id.toolbar) Toolbar mToolbar;
+    @BindView(R.id.adView) AdView mAdView;
 
     @Override
     public int getLayoutResourceId() {
@@ -40,6 +43,12 @@ public class SettingsActivity extends BaseActivity {
                     .replace(R.id.content, settingsFragment)
                     .commit();
         }
+
+        //AdView
+        AdRequest adRequest = new AdRequest.Builder()
+//                .addTestDevice("9955D816375FF5AF7DDE1FAA0B2B0413")
+                .build();
+        mAdView.loadAd(adRequest);
     }
 
     @Override
