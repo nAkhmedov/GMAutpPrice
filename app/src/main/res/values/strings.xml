@@ -1,0 +1,27 @@
+<resources>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-2087818790993613/6234749686</string>
+    <string name="insertial_ad_unit_id" translatable="false">ca-app-pub-2087818790993613/9048615288</string>
+
+    <string name="app_name">Uz Auto Price</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="main">Main</string>
+    <string name="choose_language">Choose language</string>
+    <string name="english">English</string>
+    <string name="uzbek">O\'zbek</string>
+    <string name="russian">Русский</string>
+    <string name="social">Social</string>
+    <string name="rate">Rate</string>
+    <string name="invitation_title">GM Uzbekistan Price Invite</string>
+    <string name="invitation_message">Please join us GM Uzbekistan Prices</string>
+    <string name="invitation_cta">Call to action</string>
+    <string name="invite">Invite</string>
+    <string name="sharing_txt">Hey! Check out my app, it will help you out https://play.google.com/store/apps/details?id=com.nakhmedov.gmuzbprice</string>
+    <string name="car_positions">Car positions</string>
+    <string name="last_update">Last updated at %1$s</string>
+</resources>

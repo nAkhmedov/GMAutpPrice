@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">UZ Auto Narh</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Sozlamalar</string>
+    <string name="communicate">Muloqot</string>
+    <string name="share">Ulashish</string>
+    <string name="main">Asosiy</string>
+    <string name="choose_language">Tilni tanlang</string>
+    <string name="english">English</string>
+    <string name="uzbek">O\'zbek</string>
+    <string name="russian">Русский</string>
+    <string name="social">Boshqalar</string>
+    <string name="rate">Baholash</string>
+    <string name="invitation_title">GM Uzbekistan Narhlari</string>
+    <string name="invitation_message">GM Uzbekistan Narhlari mobil ilovasiga qo\'shiling</string>
+    <string name="invitation_cta">Call to action</string>
+    <string name="invite">Taklif qiling</string>
+    <string name="sharing_txt">Hooy! Ushbu ilovani o\'rnating va sinab ko\'ring https://play.google.com/store/apps/details?id=com.nakhmedov.gmuzbprice</string>
+    <string name="car_positions">Avtomobil pozitsiyalari</string>
+    <string name="last_update">Ohirgi yangilanish %1$s</string>
+</resources>

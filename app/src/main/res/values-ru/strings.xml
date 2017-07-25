@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">УЗ Авто Цены</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Настройки</string>
+    <string name="communicate">Коммуникация</string>
+    <string name="share">Поделиться</string>
+    <string name="main">Главный</string>
+    <string name="choose_language">Выберите язык</string>
+    <string name="english">English</string>
+    <string name="uzbek">O\'zbek</string>
+    <string name="russian">Русский</string>
+    <string name="social">Социальное</string>
+    <string name="rate">Оценить</string>
+    <string name="invitation_title">GM Узбекистан Цена</string>
+    <string name="invitation_message">Присоединяйтесь к нам Цены на GM Uzbekistan</string>
+    <string name="invitation_cta">Call to action</string>
+    <string name="invite">Присоедняй</string>
+    <string name="sharing_txt">Привет! Проверьте мое приложение, это поможет вам https://play.google.com/store/apps/details?id=com.nakhmedov.gmuzbprice</string>
+    <string name="car_positions">Позиции автомобилей</string>
+    <string name="last_update">Последнее обновление %1$s</string>
+</resources>
